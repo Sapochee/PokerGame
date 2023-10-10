@@ -1,4 +1,4 @@
 # PokerGame
 
-## Use Driver.java in order to run game
-## Game created from a previously taken class
+### Run Driver.java in order to launch GUI and play game
+### Game created from a previously taken class
